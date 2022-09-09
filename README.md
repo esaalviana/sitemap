@@ -20,7 +20,7 @@ Masukan script dibawah ini :<br><br>
 <style type="text/css">#sidebar-wrapper{display:none !important;}#midsidebar-wrapper{display:none !important;}</style>
 <style type="text/css">#post-wrapper{width:100%!important;float:left;margin:0;} .post{width:100%} </style>
 
-<br><br><
+<br><br>
 
 Ganti alamat blogkamu pada script diatas di bari nomor 17.
 Done
