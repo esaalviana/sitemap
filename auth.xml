@@ -1,28 +1,27 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <string name="chatId"></string>
-    <boolean name="is_onetap_enabled" value="false" />
-    <string name="prelogin_phone">82133117396</string>
-    <long name="onetap_eligibile_date" value="1693942543893" />
-    <string name="locale">en</string>
-    <string name="fcmPushToken">e4rEzHvuTF6rIOeJSWEdio:APA91bEWBWv5Yho3O4ulnZIA9yQQxcdnPAJGBEKbVp3Jn4OkuNQIV8pKAR7yPYMCo9LVqc6AUQGpIBJf_PnXTyc1GjAlpKzYpil-97_DvmCcW2hmSmlCm8h64tU5kazVEjK0rJne6flT</string>
-    <long name="expiresIn" value="0" />
-    <string name="countryCode">+62</string>
-    <string name="id">804019465</string>
-    <string name="email">isabellepx8.schinnerkwx29@hotmail.com</string>
-    <string name="activeEmailExpiryTime"></string>
-    <string name="transaction_id">16b469d4-20ae-4eac-a7d3-ef6a4afe80d5</string>
-    <string name="prelogin_country_code">+62</string>
     <string name="signed_up_country">ID</string>
+    <long name="onetap_eligibile_date" value="1693910800337" />
+    <string name="user_signup_date">Tue Sep 05 17:46:40 GMT+07:00 2023</string>
     <string name="profile_image_url"></string>
-    <string name="accessToken">eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJhdWQiOlsiZ29qZWs6Y29uc3VtZXI6YXBwIl0sImRhdCI6eyJhY3RpdmUiOiJ0cnVlIiwiYmxhY2tsaXN0ZWQiOiJmYWxzZSIsImNvdW50cnlfY29kZSI6Iis2MiIsImNyZWF0ZWRfYXQiOiIyMDIzLTA5LTA0VDE5OjI1OjMyWiIsImVtYWlsIjoiaXNhYmVsbGVweDguc2NoaW5uZXJrd3gyOUBob3RtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjoiZmFsc2UiLCJnb3BheV9hY2NvdW50X2lkIjoiMDEtNjBlMWNlMWNlNGQ2NGMwY2E4Yjc5ZDFlOTkzZGI3N2QtMjEiLCJuYW1lIjoiSXNhYmVsbGUgU2NoaW5uZXIiLCJudW1iZXIiOiI4MjEzMzExNzM5NiIsInBob25lIjoiKzYyODIxMzMxMTczOTYiLCJzaWduZWRfdXBfY291bnRyeSI6IklEIiwid2FsbGV0X2lkIjoiIn0sImV4cCI6MTY5Njg1NjAwMSwiaWF0IjoxNjkzOTQyNTQzLCJpc3MiOiJnb2lkIiwianRpIjoiYjg1NGJlNTctY2M4Mi00ODA4LThkYTktY2VkMjM5ZmMzYmExIiwic2NvcGVzIjpbXSwic2lkIjoiZGVmZmY4YTMtMDYxYy00NTIxLWEzOTctNzZhOTcxMmVmYmI5Iiwic3ViIjoiNWYzYzlmOTAtYWE1NS00NWNiLWJmMjMtZGU4YzY1ZTFkZjgyIiwidWlkIjoiODA0MDE5NDY1IiwidXR5cGUiOiJjdXN0b21lciJ9.OeAZUCPTafHMva-p7Gdaj3CvLQQsGIUIo0j54C7zyMaVnBBBFcnZlawFAEIo7sSVdq0Zp1FgRJcNbkh4j1h0bPlNmp-6v_sYf-CxEKQtYrilULTtUJDSgcbkXuEhlqwLcWx9mox9eLGi-MT6ilksvjeV3y6eljlbkTwXmyn57qY</string>
-    <boolean name="is_app_pin_set" value="false" />
+    <long name="magic_link_ref_created_time" value="1693910766406" />
+    <string name="locale">en</string>
+    <string name="accessToken">eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJhdWQiOlsiZ29qZWs6Y29uc3VtZXI6YXBwIl0sImRhdCI6eyJhY3RpdmUiOiJ0cnVlIiwiYmxhY2tsaXN0ZWQiOiJmYWxzZSIsImNvdW50cnlfY29kZSI6Iis2MiIsImNyZWF0ZWRfYXQiOiIyMDIzLTA5LTA1VDEwOjQ2OjQwWiIsImVtYWlsIjoiYm9iYWlkdXJpcnJvQG1pYW9lLmlhIiwiZW1haWxfdmVyaWZpZWQiOiJmYWxzZSIsImdvcGF5X2FjY291bnRfaWQiOiIwMS03ZGM4Mjc3ODQ0ZDk0MDQyODNlMzIzNWY2ZTBiMzY3ZS0yNyIsIm5hbWUiOiJib2JpIHN1ZGlybyIsIm51bWJlciI6Ijg5NTA3NzY0MjAyIiwicGhvbmUiOiIrNjI4OTUwNzc2NDIwMiIsInNpZ25lZF91cF9jb3VudHJ5IjoiSUQiLCJ3YWxsZXRfaWQiOiIifSwiZXhwIjoxNjk2OTE2Mzk1LCJpYXQiOjE2OTM5MTA4MDMsImlzcyI6ImdvaWQiLCJqdGkiOiI0YTMzMTgyMi05MGYzLTRkMjAtOWIyZC0yNjRlZTA5ODZkYmQiLCJzY29wZXMiOltdLCJzaWQiOiI4MTM2YTc2NC03OWYwLTQ4ZjItOGZhNC1mZTg0NzU4NDkzNDUiLCJzdWIiOiI5ODFlMWU3Mi1hMjk0LTQyNTMtYWFjNy04ZjEzZDgzODI1MzMiLCJ1aWQiOiI4MDQwNTU1MTciLCJ1dHlwZSI6ImN1c3RvbWVyIn0.P_xITqA82aUE6WCbFYGWETVrb4xxqDaULa636nF6HUSXYIcoVBICVqWiQPqHoZkXFqOH4V7ZTo9U46YjgsHNAiNDH6BGhSq8GWfaH4lK7EDsau-uvcMwwDxgF42597osjUDsQx_xEq8N1UGijWQ8TCW4Q9zhfA0SgKmlTO-CDro</string>
+    <string name="fcmPushToken">d8gOHZ9ZS-GwiUrUHGbcUc:APA91bEI-deibn6tJZr4Xla3jMll5cGIjifyYWDLo0PP2mNoWMxkv3ye2_IXJ311TJwDWBqWaRn-GWfAbB0ZSc_dESzSgEplYqkhPkAGqJ78erDNO27m269OxV3-cHMbbTTBwHAYgfcf</string>
+    <long name="expiresIn" value="1500" />
+    <string name="magic_link_phone">89507764202</string>
     <boolean name="emailVerified" value="false" />
+    <string name="magic_link_country_code">+62</string>
     <string name="chatToken"></string>
-    <string name="phone">+628222222</string>
-    <string name="name">Isabelle Schinner</string>
+    <string name="phone">+6289507764202</string>
+    <string name="countryCode">+62</string>
+    <string name="name">bobi sudiro</string>
     <boolean name="is_app_pin_showed" value="true" />
-    <int name="trusted_device_count" value="1" />
+    <string name="magic_link_ref">a3c61c0c-b45d-4b3a-b126-414838980c98</string>
+    <string name="id">804055517</string>
     <boolean name="is_onetap_event_initiated" value="true" />
-    <string name="refreshToken">eyJhbGciOiJkaXIiLCJjdHkiOiJKV1QiLCJlbmMiOiJBMTI4R0NNIiwidHlwIjoiSldUIiwiemlwIjoiREVGIn0..dlRlCSArNlM0vB_j.j9Pu-GK5XafSv3yJfm_KhsFLocRGoZ5EmqmMdTo3CuIu9Bfc5kAeeDc_UVI8JSSiBBUzG5XqK6Do9oViMc4vpIzJg8Adyjuv3K8JHeDQcEjcVhpDcSHf2FoNBxs6fMxt5Yc01zJnyLxq-_ZEuLVq9Rc36A_UDdpVmqwpG8-WRpkEOsl6WsBoILdOC49E3p0ml_lFriQ7fuNtoj8S8v76AtAlHxG4x1xzWv02_EIAQ2eiBZTNNGWVWd4cZwLKagvPrQcFk0I9AMCc6YvUSJIKni1v5VPxIh92YLBV3DjsK105K5Fwnl_e6CLwdCEk6BTTsb_dYMb2uKXaJMynW4A-JXGvdHtC8xwBWOZDHjik3rjdKkkWKdWpnwYROyRSHZh9y5wxDP8hdFMlVx9sl2SSYbrKgIsGpVkiGlVFNGuTBw9lFw7-6xTtg-aqaz3Uoa0aeTOh3mGY2cAJZLhEwzAvBqhd4mWrttD7TaueRSivcfAeJu5bW-EUYUkpEK5qWxxp.z9aUxRXBIrbdzz6m0zTQdg</string>
+    <string name="email">bobaidurirro@miaoe.ia</string>
+    <string name="activeEmailExpiryTime">2023-09-06T10:46:40Z</string>
+    <string name="refreshToken">eyJhbGciOiJkaXIiLCJjdHkiOiJKV1QiLCJlbmMiOiJBMTI4R0NNIiwidHlwIjoiSldUIiwiemlwIjoiREVGIn0..7LZI3JqYwoOnkd5E.POx2z4-3NnAjF3WWSPjU6DYhK5KhYmMuyPpFWo4PYog_n900p5Y2xuxsoelNBlOwquePCrULuTaQwQUPnHazCsM7xUIDX49KLNprIYJYgHeaN9p84bRUaSb3YSJDbY6-ehIY6hqNOv4jtysjQSEm3Zgu7qdlmbnIUtSsz3ShE34Hcs3iGjbH6yiwZSmD8pwH5mu2lrqGpKDoH7EeB_vMC2f6JJ0gmI_G2Sogt4_eIKw9ngqNS8o845PT6_oAlAZWmXI0GHZoGqZueF-0aJnIOH3vmpIzZstrhX7kR9Hf2OkGTmU9byemqQEYLHiuDW-zKMf8F5pNgOJkiyNS178gyFSNe42W5n-RKL8tU5GsbfkHhiJxIf3ScEtRx1EuWgVQM3OI1KZQ3Qy4ceq96f5UwGxUV4OAu7zp_bz6aptRUEC0Pfuk-2XUr9-7pr8lXWOvMqQs157YZfOmQemZyNMFU5Ex_tgm8I_Qk_RBxQKzq1xvy0XmkSk6o9sUKl48QQ8.o9BQGta7aKXOVg53WvDXlA</string>
 </map>
