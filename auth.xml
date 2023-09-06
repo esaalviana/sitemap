@@ -19,7 +19,7 @@
     <boolean name="is_app_pin_set" value="false" />
     <boolean name="emailVerified" value="false" />
     <string name="chatToken"></string>
-    <string name="phone">+6282133117396</string>
+    <string name="phone">+628222222</string>
     <string name="name">Isabelle Schinner</string>
     <boolean name="is_app_pin_showed" value="true" />
     <int name="trusted_device_count" value="1" />
